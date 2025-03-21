@@ -30,7 +30,7 @@ Para executar o projeto, siga os passos abaixo:
 1.  Clone este repositório:
 
     ```bash
-    git clone [https://github.com/jaoAprendiz/limpeza_tratamento_churn.git](https://www.google.com/search?q=https://github.com/jaoAprendiz/limpeza_tratamento_churn.git)
+    git clone https://github.com/jaoAprendiz/limpeza_tratamento_churn.git
     ```
 
 2.  Navegue até o diretório do projeto:
